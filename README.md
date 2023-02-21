@@ -13,8 +13,10 @@ A quiz detailing the person's interest regarding questions related to Bioinforma
 Once the user is finished with their specific suggestion, there will be a slider that will enable the user to change the position of the dot in order to see other suggestions or work related fields. This is to offer the user a broader and deeper knowledge of the field of Bioinformatics and may possibly encourage them to start small projects or works on their own.
 
 An example of a run will be simulated here.       
+
+
 (Variable names are still being prototyped)       
-Score                     
 
 
+Score                       
 |Biology| |Chemistry| |Statistics| |Computer Science|
