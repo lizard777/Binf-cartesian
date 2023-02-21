@@ -14,5 +14,7 @@ Once the user is finished with their specific suggestion, there will be a slider
 
 An example of a run will be simulated here.
 (Variable names are still being prototyped)
-Score 
+Score                     
+
+
 |Biology| |Chemistry| |Statistics| |Computer Science|
