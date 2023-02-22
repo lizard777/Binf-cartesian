@@ -27,20 +27,20 @@ Score
 |4| |2| |7| |5| 
 
 
-*insert some graphs here*
-^ y
-|                           
-|              
-|                        (    Biology    )
+*insert some graphs here*         
+^ y             
+|                               
+|                     
+|                        (    Biology    )            
 |
 |
-|    (  Chemistry  )                        (       Statistics       )
-|    
-|    
-|                        (     CompSci     )
-|    
-|
-|___________________________________________________________________________> x
+|    (  Chemistry  )                        (       Statistics       )        
+|             
+|             
+|                        (     CompSci     )                  
+|             
+|         
+|___________________________________________________________________________> x     
 
 
 
